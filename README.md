@@ -1,8 +1,8 @@
 - Hi, I’m @ServersAreDown
 - I’m interested in sci-fi, space, and science.
 - I’m currently learning code.
-- I’m looking to collaborate on nothing right now.
-- How to reach me? Don't.
+- I have no collaborations right now.
+- Reach out to me from meltanrocks1@gmail.com.
 
 <!---
 ServersAreDown/ServersAreDown is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
